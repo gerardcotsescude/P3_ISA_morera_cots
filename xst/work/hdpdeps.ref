@@ -1,0 +1,29 @@
+V3 14
+FL C:/Users/Usuari/Desktop/Practica/P3_morera_cots/P3_S2P.vhd 2023/03/07.09:56:29 M.70d
+EN work/P3_S2P 1678181125 \
+      FL C:/Users/Usuari/Desktop/Practica/P3_morera_cots/P3_S2P.vhd \
+      PB ieee/std_logic_1164 1284609568
+AR work/P3_S2P/P3_S2P_beh 1678181126 \
+      FL C:/Users/Usuari/Desktop/Practica/P3_morera_cots/P3_S2P.vhd \
+      EN work/P3_S2P 1678181125
+FL C:/Users/Usuari/Desktop/Practica/P3_morera_cots/P3_S2P_all.vhd 2023/03/07.10:24:25 M.70d
+EN work/P3_S2P_all 1678181129 \
+      FL C:/Users/Usuari/Desktop/Practica/P3_morera_cots/P3_S2P_all.vhd \
+      PB ieee/std_logic_1164 1284609568
+AR work/P3_S2P_all/Behavioral 1678181130 \
+      FL C:/Users/Usuari/Desktop/Practica/P3_morera_cots/P3_S2P_all.vhd \
+      EN work/P3_S2P_all 1678181129 CP P3_S2P CP S2P_buffer
+FL C:/Users/Usuari/Desktop/Practica/P3_morera_cots/P3_S2P_tb.vhd 2023/03/07.09:55:07 M.70d
+EN work/P3_S2P_tb 0 \
+      FL C:/Users/Usuari/Desktop/Practica/P3_morera_cots/P3_S2P_tb.vhd \
+      PB ieee/std_logic_1164 1284609568
+AR work/P3_S2P_tb/behavior 0 \
+      FL C:/Users/Usuari/Desktop/Practica/P3_morera_cots/P3_S2P_tb.vhd \
+      EN work/P3_S2P_tb 0 CP P3_S2P
+FL C:/Users/Usuari/Desktop/Practica/P3_morera_cots/S2P_buffer.vhd 2023/03/07.09:57:48 M.70d
+EN work/S2P_buffer 1678181127 \
+      FL C:/Users/Usuari/Desktop/Practica/P3_morera_cots/S2P_buffer.vhd \
+      PB ieee/std_logic_1164 1284609568
+AR work/S2P_buffer/S2P_buffer_Behavioral 1678181128 \
+      FL C:/Users/Usuari/Desktop/Practica/P3_morera_cots/S2P_buffer.vhd \
+      EN work/S2P_buffer 1678181127

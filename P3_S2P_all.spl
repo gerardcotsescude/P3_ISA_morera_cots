@@ -1,0 +1,10 @@
+[Inputs]
+clk
+reset
+enable_s2p
+enable_buffer_s2p
+dout
+[Outputs]
+=data_ADC_L[19:0]=
+=data_ADC_R[19:0]=
+[BiDir]

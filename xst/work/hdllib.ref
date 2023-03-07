@@ -1,0 +1,7 @@
+EN p3_s2p_all NULL C:/Users/Usuari/Desktop/Practica/P3_morera_cots/P3_S2P_all.vhd sub00/vhpl02 1678181129
+AR p3_s2p_all behavioral C:/Users/Usuari/Desktop/Practica/P3_morera_cots/P3_S2P_all.vhd sub00/vhpl03 1678181130
+AR p3_s2p p3_s2p_beh C:/Users/Usuari/Desktop/Practica/P3_morera_cots/P3_S2P.vhd sub00/vhpl01 1678181126
+EN s2p_buffer NULL C:/Users/Usuari/Desktop/Practica/P3_morera_cots/S2P_buffer.vhd sub00/vhpl04 1678181127
+EN p3_s2p_tb NULL C:/Users/Usuari/Desktop/Practica/P3_morera_cots/P3_S2P_tb.vhd sub00/vhpl06 1678181083
+AR s2p_buffer s2p_buffer_behavioral C:/Users/Usuari/Desktop/Practica/P3_morera_cots/S2P_buffer.vhd sub00/vhpl05 1678181128
+EN p3_s2p NULL C:/Users/Usuari/Desktop/Practica/P3_morera_cots/P3_S2P.vhd sub00/vhpl00 1678181125

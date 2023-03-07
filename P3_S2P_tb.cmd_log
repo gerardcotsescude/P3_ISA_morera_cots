@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/Usuari/Desktop/Practica/P3_morera_cots/P3_S2P_tb.xst" -ofn "C:/Users/Usuari/Desktop/Practica/P3_morera_cots/P3_S2P_tb.syr" 

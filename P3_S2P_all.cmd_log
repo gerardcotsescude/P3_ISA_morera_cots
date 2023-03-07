@@ -1,0 +1,3 @@
+vhdtdtfi -lib work S2P_buffer.vhd -lib work P3_S2P.vhd -lib work P3_S2P_all.vhd -prj P3_morera_cots -o P3_S2P_all.spl -module P3_S2P_all -template C:/Xilinx/12.3/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3 P3_S2P_all.spl C:/Users/Usuari/Desktop/Practica/P3_morera_cots/P3_S2P_all.sym 
+xst -intstyle ise -ifn "C:/Users/Usuari/Desktop/Practica/P3_morera_cots/P3_S2P_all.xst" -ofn "C:/Users/Usuari/Desktop/Practica/P3_morera_cots/P3_S2P_all.syr" 
